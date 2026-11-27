@@ -1,0 +1,9 @@
+streamlit==1.63.0
+ultralytics>=8.4.151,<8.5
+numpy>=2.0.1
+pandas>=3.0.5
+opencv-python-headless>=4.8.0
+Pillow>=11.1.0
+scikit-image>=0.26.0
+scipy>=1.17.1
+matplotlib>=3.11.1
